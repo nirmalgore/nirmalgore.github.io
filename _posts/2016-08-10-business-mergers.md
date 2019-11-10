@@ -1,8 +1,8 @@
 ---
-title: Modi and Trump: Some common threads
+title: Modi and Trump:- Some common threads
 date: 2017-15-11 00:00:00
 categories:
-  - Politics, Political Economy, Democracy, Elections
+  - Politics
 author_staff_member: Nirmal-Gore
 image: "https://unsplash.it/600/450?image=737&a=.png"
 large_header: false
