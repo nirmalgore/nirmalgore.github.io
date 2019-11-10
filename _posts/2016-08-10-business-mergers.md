@@ -1,6 +1,6 @@
 ---
 title: Some common threads between Modi and Trump
-date: 2017-15-11 00:00:00
+date: 2017-11-15 00:00:00
 categories:
   - Politics
 author_staff_member: Nirmal-Gore
