@@ -1,31 +1,31 @@
 ---
-title: NIRMAL GORE PRANJAL GORE
-date: 2016-08-10 00:00:00
+title: Modi and Trump: Some common threads
+date: 2017-15-11 00:00:00
 categories:
-  - Business
-author_staff_member: jane-doe
+  - Politics, Political Economy, Democracy, Elections
+author_staff_member: Nirmal-Gore
 image: "https://unsplash.it/600/450?image=737&a=.png"
 large_header: false
 ---
 
-Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
-
-From a legal point of view, a merger is a legal consolidation of two entities into one entity, whereas an acquisition occurs when one entity takes ownership of another entity's stock, equity interests or assets. From a commercial and economic point of view, both types of transactions generally result in the consolidation of assets and liabilities under one entity, and the distinction between a "merger" and an "acquisition" is less clear. A transaction legally structured as a merger may have the effect of placing one party's business under the indirect ownership of the other party's shareholders, while a transaction legally structured as an acquisition may give each party's shareholders partial ownership and control of the combined enterprise. A deal may be euphemistically called a "merger of equals" if both CEOs agree that joining together is in the best interest of both of their companies, while when the deal is unfriendly (that is, when the management of the target company opposes the deal) it may be regarded as an "acquisition".
+  November 8, 2017, marked one year of Mr Trump's election as the 45th President of America and Mr Modi has also completed half of his current term as the Prime Minister of India. Numerous articles have been written on the comparison between the two political leaders. I wish to put forth my perspective on the same. The intention of this exercise is to quench my thirst for some creative exploration of ideas.
+   I have a keen interest in understanding the dynamics of the world. I am very curious about the way the world works. I am on a journey to understand how major players of world politics try to influence our lives on earth. This journey has led me to read as much as possible on global politics and world history. With the same spirit, I have followed the 45th Presidential elections of the USA and the 16th Lok Sabha elections in India. During this period of time, I have encountered certain similarities between Mr Modi and Mr Trump. I would like to enlist them in this article.
+  For starters: the main political opponent of Mr Narendra Modi (a candidate from Bharatiya Janata Party) was Mr Rahul Gandhi from the Indian National Congress. And the main political opponent for Mr Donald Trump (Republican) was Ms Hillary Clinton (Democrat).
 
 ![](https://unsplash.it/960/350?image=617){: width="960" height="350"}
 
-### Acquisition
+### Anti-incumbency/Anti-establishment
 
-An acquisition or takeover is the purchase of one business or company by another company or other business entity. Such purchase may be of 100%, or nearly 100%, of the assets or ownership equity of the acquired entity. Consolidation occurs when two companies combine to form a new enterprise altogether, and neither of the previous companies remains independently. Acquisitions are divided into "private" and "public" acquisitions, depending on whether the acquiree or merging company (also termed a target) is or is not listed on a public stock market. Some public companies rely on acquisitions as an important value creation strategy. An additional dimension or categorization consists of whether an acquisition is friendly or hostile.
+  One of the main political points scored by both the political leaders is on account of being outsiders. Neither of them belonged to any political family. 
+  Unlike Mr Rahul Gandhi, Mr Modi pitched himself as the one who does not belong to any political dynasty.  He said that INC and the Gandhi family (Nehru-Gandhi Family) were two of the main reasons why India had not been able to realise it's true potential since independence. Similarly, Mr Trump also pitched himself as an outsider. He said that it is actually Mr Bill Clinton who is seeking another term at the White House in the name of Ms Hillary Clinton and said that he will repeat the same mistakes he committed the last time.
+   Both the leaders were running against an incumbent government. In the case of Mr Modi, it was the UPA-II (United Progressive Alliance) which was running for its 2nd term. Whereas, Mr Trump was running against the Democratic party which was running for its third consecutive term. Both the leaders held the incumbent governments responsible for two things; the pathetic state of the respective economies and complete lack of efficiency on the jobs front.
+   Mr Modi blamed the UPA for the miserable condition of Indian economy and held the UPA responsible for being a harbinger of scams in India. A picture was painted of Mr Modi as the one who does not have any immediate family, unlike Mr Gandhi, and 'hence' he might not have any interest in consolidation of personal wealth. This argument was significant on the backdrop of numerous corruption scams unearthed during the UPA-II rule (2009-14). He criticised the UPA for not creating enough jobs for the Indian youth.
 
-Achieving acquisition success has proven to be very difficult, while various studies have shown that 50% of acquisitions were unsuccessful. "Serial acquirers" appear to be more successful with M&A than companies who only make an acquisition occasionally (see Douma & Schreuder, 2013, chapter 13). The new forms of buy out created since the crisis are based on serial type acquisitions known as an ECO Buyout which is a co-community ownership buy out and the new generation buy outs of the MIBO (Management Involved or Management & Institution Buy Out) and MEIBO (Management & Employee Involved Buy Out).
-
-The combined evidence suggests that the shareholders of acquired firms realize significant positive "abnormal returns" while shareholders of the acquiring company are most likely to experience a negative wealth effect. The overall net effect of M&A transactions appears to be positive: almost all studies report positive returns for the investors in the combined buyer and target firms. This implies that M&A creates economic value, presumably by transferring assets to management teams that operate them more efficiently (see Douma & Schreuder, 2013, chapter 13).
-
+         On similar lines, Mr Trump blamed the Obama administration for the pitiable state of the US economy. He also criticised the administration for not creating enough jobs. He criticised the administration for not doing enough about the loss of American jobs in the name of "offshoring of work".  He said that, unlike Ms Clinton, funding his own campaign saves him from being at the mercy of donors. He asserted that Ms Clinton would succumb to the demands of her donors and hence the US economy would work on the whims and fancies of the Clinton campaign contributors.
 
 ![](https://unsplash.it/960/350?image=864){: width="960" height="350"}
 
-### Business valuation
+### Criticism of dynasty politics
 
 The five most common ways to value a business are
 
