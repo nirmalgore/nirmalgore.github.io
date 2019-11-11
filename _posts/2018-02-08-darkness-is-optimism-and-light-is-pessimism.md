@@ -3,10 +3,12 @@ title:  Darkness is optimism and Light is pessimism
 date: 2018-02-08 00:00:00
 categories:
   - Philosophy
-author_staff_member: Nirmal-Gore
+author_staff_member: nirmal-gore
 image: "https://unsplash.it/600/450?image=448&a=.png"
 large_header: false
 ---
+I know this can be a shocker! But this will definitely make you think how you lead your life.
+
 It is a common practice to correlate, link or connect the light with optimism and darkness with pessimism. This analogy is common across multiple mediums including books, stories, poems and movies. The underlying belief or idea behind these assumptions, according to me, is related to the way a human being perceives darkness and light. I have a theory to share which tries to explain this association. I have also tried to explain my understanding of how this belief must have established.
 
 Take a look at our universe. What can you see? You can see planets, stars, galaxies and other celestial objects (things which are incomprehensible to a layman like me). And there is also one particular thing in our universe which is of prime importance to me. As a matter of fact, it is also omnipresent and is called darkness. 
