@@ -3,7 +3,7 @@ title: Some common threads between Modi and Trump
 date: 2017-11-15 12:05:01
 categories:
   - Politics
-author_staff_member: Nirmal Gore
+author_staff_member: nirmal-gore
 image: "https://image.shutterstock.com/image-photo/indiamay25-2019-prime-minister-narendra-600w-1409414732.jpg"
 large_header: false
 ---
