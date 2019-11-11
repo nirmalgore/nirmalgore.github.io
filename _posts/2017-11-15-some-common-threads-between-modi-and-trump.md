@@ -8,6 +8,8 @@ image: "https://image.shutterstock.com/image-photo/indiamay25-2019-prime-ministe
 large_header: false
 ---
 
+Yes! I am not kidding! Read it to believe it.
+
   November 8, 2017, marked one year of Mr Trump's election as the 45th President of America and Mr Modi has also completed half of his current term as the Prime Minister of India. Numerous articles have been written on the comparison between the two political leaders. I wish to put forth my perspective on the same. The intention of this exercise is to quench my thirst for some creative exploration of ideas.
 
    I have a keen interest in understanding the dynamics of the world. I am very curious about the way the world works. I am on a journey to understand how major players of world politics try to influence our lives on earth. This journey has led me to read as much as possible on global politics and world history. With the same spirit, I have followed the 45th Presidential elections of the USA and the 16th Lok Sabha elections in India. During this period of time, I have encountered certain similarities between Mr Modi and Mr Trump. I would like to enlist them in this article.
