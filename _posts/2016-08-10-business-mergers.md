@@ -1,5 +1,5 @@
 ---
-title: Some common threads between Modi and Trump
+title: "Some common threads between Modi and Trump"
 date: 2017-11-15 00:00:00
 categories:
   - Politics
