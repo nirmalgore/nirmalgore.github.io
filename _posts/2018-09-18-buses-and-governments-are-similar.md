@@ -4,7 +4,7 @@ date: 2018-09-18 00:00:00
 categories:
   - Political economy
 author_staff_member: nirmal-gore
-image: "https://unsplash.it/600/450?image=448&a=.png"
+image: "https://images.pexels.com/photos/575897/pexels-photo-575897.jpeg"
 large_header: false
 ---
 
