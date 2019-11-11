@@ -49,3 +49,25 @@ large_header: false
     Both the leaders are sceptical about immigration and have refused to take in immigrants from some of their neighbouring countries. Mr Modi’s government refused to take in the Rohingyas, the minority Muslim community, who fled from Myanmar because of ethnic violence. However, the government said that the India will always welcome Hindus from all over the world who feel insecure in the country they live in.
     Mr Trump is also not happy about the Mexicans entering the USA and hence he proposed a wall along the border. He believes that the Mexicans entering the USA are ‘rapists, drug dealers and criminals’. He also voiced his disapproval of accepting any immigrants emanating from the Syrian refugee crisis citing reasons of a threat to national security.
      Homosexuality. Mr Modi might not have officially spoken on this issue but the BJP does not want to take any step in the direction of decriminalising homosexuality (sec 377 of the IPC). Same is true for Mr Trump, who might have spoken in support of the LGBTQ community during his campaign but, the Republican party per se is against the idea of gay marriage.
+     
+### Experience of handling the highest political office
+   Another common thread between the two leaders is that they have never served a public office the national level. Neither of them has ever been a legislator at their respective national levels. 
+  
+  Mr Modi has served as the Chief Minister of Gujrat for more than a decade. This means that he has served a lawmaker in the State Legislative Assembly. But, he was never a Parliamentarian. This meant that he never served even as a minister in the national government before getting elected for the first time in 2014.
+
+   Same goes for Mr Trump who was never elected to even a single political office before getting elected as the President of the United States. Although, unlike Mr Modi, he was never even a governor of any of the states of the USA. 
+          
+### Paid media houses/ Fake News
+
+   Both Mr Modi and Mr Trump have spoken about paid media houses/fake news. 
+
+   Mr Modi, in his election campaign, spoke criticised some of the media houses of the country for being pro-Congress and blamed some of them for the propagation of biased and one-sided news eg. NDTV. He also blamed 'these' media houses for spreading false news about the BJP and for trying to disrupt the social harmony in the country. However, after getting elected as the PM he has refrained from making any such comments.
+
+   Mr Trump on the other side criticised the media during his campaign and he continues to do so even after getting elected as the President. He blames the media for not being fair to him. He has blamed media houses for being biased against him. Eg. CNN and The Washington Post. He criticised 'these' media houses for spreading 'fake news' and for maligning his image.
+
+  Even with the above similarities, both Mr Modi and Mr Trump are leaders separated not just by two gigantic oceans but also by the very different politico-cultural dynamics of their respective countries. Hence, above similarities need to be studied in the context of this dynamics.
+
+  It would be an injustice if I do not mention one significant difference. There is a peculiar contrast between the way both of these leaders were elected to their respective political offices. While Mr Modi was elected with an overwhelming majority, on the other hand, Mr Trump won by a very thin margin. Ironically, it was predicted by many political pundits that Mr Trump is most likely to lose the election. However, the political horoscopes in India had a consensus on Mr Modi winning the election and the discussion was only on the number of seats with which he would lead his party to victory. 
+
+  There could be many more similarities between the two leaders and there could be numerous differences too. The only objective of my exercise here is, as noted in the beginning, _to quench my thirst for the creative exploration of ideas_.
+  
