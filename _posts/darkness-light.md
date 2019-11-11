@@ -1,8 +1,8 @@
 ---
-title: Buses and governments are similar- read this to know how.
-date: 2018-09-18 00:00:00
+title:  Darkness is optimism and Light is pessimism
+date: 2018-02-08 00:00:00
 categories:
-  - Political economy
+  - Philosophy
 author_staff_member: Nirmal-Gore
 image: "https://unsplash.it/600/450?image=448&a=.png"
 large_header: false
