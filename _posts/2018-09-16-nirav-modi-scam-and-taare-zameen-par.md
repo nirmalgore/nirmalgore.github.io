@@ -3,7 +3,7 @@ title: Nirav Modi scam and Taare Zameen Par- an intriguing analogy
 date: 2018-09-16 00:00:00
 categories:
   - Economy, Banking, Films
-author_staff_member: Nirmal Gore
+author_staff_member: nirmal-gore
 image: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Taare_Zameen_Par_Like_Stars_on_Earth_poster.png/220px-Taare_Zameen_Par_Like_Stars_on_Earth_poster.png"
 large_header: false
 ---
