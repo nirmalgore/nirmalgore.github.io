@@ -3,7 +3,7 @@ title: Buses and governments are similar- read this to know how.
 date: 2018-09-18 00:00:00
 categories:
   - Political economy
-author_staff_member: Nirmal-Gore
+author_staff_member: nirmal-gore
 image: "https://unsplash.it/600/450?image=448&a=.png"
 large_header: false
 ---
