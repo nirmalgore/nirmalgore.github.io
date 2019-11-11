@@ -8,7 +8,7 @@ image: "https://unsplash.it/600/450?image=448&a=.png"
 large_header: false
 ---
 
-Here is an analogy of buses and governments-
+Here is an analogy of buses and governments. And its not for the weak of hearts. 
 
 I was travelling on a bus from Bengaluru to Pune. The scheduled arrival (manifestos of political parties) for Pune was 11 AM. However, the bus was travelling at a very slow speed (economy, eh?), which meant we were still halfway from Pune (promises vs reality) at 8 AM. I asked the bus driver (well, you cannot do that to the driver of your economy i.e. our PM) when will we reach Pune, and he said, '' in 3 more hours.'' I believed him because I had trust in the travel company to which he belonged which was SRS travels (BJP/INC) and the user reviews (elections in Gujrat) on Redbus were also terrific. 
 
