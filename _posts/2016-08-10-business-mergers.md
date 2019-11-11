@@ -4,7 +4,7 @@ date: 2017-11-15 12:05:01
 categories:
   - Politics
 author_staff_member: Nirmal-Gore
-image: "https://www.shutterstock.com/image-photo/indiamay25-2019-prime-minister-narendra-modi-1409414732"
+image: [![Modi](https://www.shutterstock.com/image-photo/indiamay25-2019-prime-minister-narendra-modi-1409414732)
 large_header: false
 ---
 
