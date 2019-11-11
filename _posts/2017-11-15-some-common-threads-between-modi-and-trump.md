@@ -1,10 +1,10 @@
 ---
-title: "Some common threads between Modi and Trump"
+title: Some common threads between Modi and Trump
 date: 2017-11-15 12:05:01
 categories:
   - Politics
-author_staff_member: Nirmal-Gore
-image: [![Modi](https://www.shutterstock.com/image-photo/indiamay25-2019-prime-minister-narendra-modi-1409414732)
+author_staff_member: Nirmal Gore
+image: "https://image.shutterstock.com/image-photo/indiamay25-2019-prime-minister-narendra-600w-1409414732.jpg"
 large_header: false
 ---
 
@@ -13,8 +13,6 @@ large_header: false
    I have a keen interest in understanding the dynamics of the world. I am very curious about the way the world works. I am on a journey to understand how major players of world politics try to influence our lives on earth. This journey has led me to read as much as possible on global politics and world history. With the same spirit, I have followed the 45th Presidential elections of the USA and the 16th Lok Sabha elections in India. During this period of time, I have encountered certain similarities between Mr Modi and Mr Trump. I would like to enlist them in this article.
 
   For starters: the main political opponent of Mr Narendra Modi (a candidate from Bharatiya Janata Party) was Mr Rahul Gandhi from the Indian National Congress. And the main political opponent for Mr Donald Trump (Republican) was Ms Hillary Clinton (Democrat).
-
-![](https://unsplash.it/960/350?image=617){: width="960" height="350"}
 
 ### Anti-incumbency/Anti-establishment
 
@@ -27,9 +25,6 @@ large_header: false
    Mr Modi blamed the UPA for the miserable condition of Indian economy and held the UPA responsible for being a harbinger of scams in India. A picture was painted of Mr Modi as the one who does not have any immediate family, unlike Mr Gandhi, and 'hence' he might not have any interest in consolidation of personal wealth. This argument was significant on the backdrop of numerous corruption scams unearthed during the UPA-II rule (2009-14). He criticised the UPA for not creating enough jobs for the Indian youth. 
 
    On similar lines, Mr Trump blamed the Obama administration for the pitiable state of the US economy. He also criticised the administration for not creating enough jobs. He criticised the administration for not doing enough about the loss of American jobs in the name of "offshoring of work".  He said that, unlike Ms Clinton, funding his own campaign saves him from being at the mercy of donors. He asserted that Ms Clinton would succumb to the demands of her donors and hence the US economy would work on the whims and fancies of the Clinton campaign contributors.
-       
-
-![](https://unsplash.it/960/350?image=864){: width="960" height="350"}
 
 ### Criticism of dynasty politics
 
@@ -70,4 +65,3 @@ large_header: false
   It would be an injustice if I do not mention one significant difference. There is a peculiar contrast between the way both of these leaders were elected to their respective political offices. While Mr Modi was elected with an overwhelming majority, on the other hand, Mr Trump won by a very thin margin. Ironically, it was predicted by many political pundits that Mr Trump is most likely to lose the election. However, the political horoscopes in India had a consensus on Mr Modi winning the election and the discussion was only on the number of seats with which he would lead his party to victory. 
 
   There could be many more similarities between the two leaders and there could be numerous differences too. The only objective of my exercise here is, as noted in the beginning, _to quench my thirst for the creative exploration of ideas_.
-  
