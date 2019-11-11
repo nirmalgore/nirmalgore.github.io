@@ -3,10 +3,12 @@ title: Nirav Modi scam and Taare Zameen Par- an intriguing analogy
 date: 2018-09-16 00:00:00
 categories:
   - Economy, Banking, Films
-author_staff_member: Nirmal-Gore
-image: "https://unsplash.it/600/450?image=448&a=.png"
+author_staff_member: Nirmal Gore
+image: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Taare_Zameen_Par_Like_Stars_on_Earth_poster.png/220px-Taare_Zameen_Par_Like_Stars_on_Earth_poster.png"
 large_header: false
 ---
+
+Take a deep breath and get ready to be amazed in one.. two.. and three!
 
 There is a scene in TZP where our little Ishaan Awasthi (Mr Nirav Modi) bunks his classes for the entire day and begs his brother (a corrupt employee of PNB) to write him down a note (Letter of Undertaking) saying that he was unwell and hence could not attend the lectures. Next day the teacher (Allahabad bank) believes Ishaan because the note has a signature of his mother (PNB) which is fudged by his brother (fake Letter of Undertaking). No one is hurt for a long time and both Ishaan and his brother are living happily. But, on one sunny day, Ishaan's father (let's say the CEO of PNB) finds out about the note. Why now? The note was kept with newspapers (other genuine LoUs) which were to be disposed of (paid off) once they 'mature'. He reads the note and confirms with his mother (the Mumbai branch of PNB) whether Ishaan was unwell on any day. She obviously says no and denies writing any such note. This is when his father finds out what Ishaan has done. The first thing he does is he reports this thing to the school authorities (PNB filed FIR against Nirav Modi). The school authorities reveal the performance of Ishaan and this embarrasses his father and he feels insulted (stocks of PNB fell by 20% in two days).
 
