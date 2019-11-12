@@ -1,6 +1,6 @@
 ---
 name: Nirmal Gore
-image: "https://i1.rgstatic.net/ii/profile.image/643485002657792-1530430188170_Q512/Nirmal_Gore.jpg"
+image: "https://photos.google.com/share/AF1QipPEfiddqpMxk73adrRIRvoE1vl-vkZKvI8Ut2P-Mbhj3JqUGKO_66biCcbqWpz0bA/photo/AF1QipOm5FJMUMFG8HC6JGjfF58vjLHpsXmE5BQ_K-Wh?key=YW8tSXZmMktMUFVVS3pNZ2pZemw2cVZiSFp1OW5n"
 credentials: MBA in International Business and Finance
 ---
 
