@@ -4,18 +4,14 @@
       link: /
     - name: About
       link: /about/
-    - name: Services
+    - name: Experiences
       link: /services/
     - name: Contact
       link: /contact/
-    - name: Advice
+    - name: Blogs
       link: /advice/
 - title: Social
   links:
-    - name: Facebook
-      link: https://www.facebook.com/nirmalgore
-      social_icon: Facebook
-      new_window: true
     - name: LinkedIn
       link: https://www.linkedin.com/in/nirmalgore/
       social_icon: LinkedIn
@@ -24,4 +20,9 @@
       link: https://www.quora.com/profile/Nirmal-Gore
       social_icon: Quora
       new_window: true
+    - name: Facebook
+      link: https://www.facebook.com/nirmalgore
+      social_icon: Facebook
+      new_window: true    
+    
 
