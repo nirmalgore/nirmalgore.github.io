@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Justice Template
+title: Nirmal Gore
 url: "https://orchid-heron.cloudvent.net"
 baseurl: 
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Home
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: Nirmal Gore
   links:
     - https://github.com/CloudCannon/justice-jekyll-template
 
@@ -26,7 +26,7 @@ social:
 timezone: Etc/UTC
 
 paginate: 10
-paginate_path: "/advice/:num/"
+paginate_path: "/blogs/:num/"
 
 collections:
   - "staff_members"
@@ -37,8 +37,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /uploads/nirmal.jpg
+      image: /uploads/nirmal.jpg
   -
     scope:
       path: ""
@@ -87,6 +87,7 @@ call_to_actions:
   - Contact
   - Advice
   - Map
+  - Blogs
 
 social_icons:
   - Facebook

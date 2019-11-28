@@ -5,11 +5,12 @@
     - name: About Me
       link: /about/
     - name: Experiences
-      link: /services/
+      link: /experiences/
     - name: Contact
       link: /contact/
     - name: Blogs
-      link: /advice/
+      link: /blogs/
+      
 - title: Social
   links:
     - name: LinkedIn

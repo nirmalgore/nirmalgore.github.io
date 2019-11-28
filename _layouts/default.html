@@ -25,7 +25,8 @@
 	</head>
 
 	<body>
-		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}');" {% if page.large_header %}class="main-hero"{% endif %}>
+		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}'); 
+		background-position: center;" {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
 				<h1><a href="{{ site.baseurl }}/">{{ site.data.company.title }}</a></h1>
 				<nav>
@@ -55,10 +56,16 @@
 					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out how we can help you. Your first consultation is free.
 				</p>
 			</section>
-		{% else %}
+		{% elsif page.call_to_action == 'Advice' %}
+		<section class="quote-section">
+				<p class="container editable">
+					<a href="{{ site.baseurl }}/blogs/">Read our published advice</a> for an introduction and quick tips on various areas of the law.
+				</p>
+			</section>
+		{% elsif page.call_to_action == 'Blogs' %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/advice/">Read our published advice</a> for an introduction and quick tips on various areas of the law.
+					I try and publish bi-weekly. Check out <a href="{{ site.baseurl }}/blogs/">the bolgs</a> 
 				</p>
 			</section>
 		{% endif %}
